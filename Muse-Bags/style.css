@@ -32,9 +32,35 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-main {
-    padding: 40px 20px;
+.intro {
+    padding: 60px 20px;
     text-align: center;
+}
+
+.intro h2 {
+    font-size: 2.5rem;
+    color: #4a3a2b;
+}
+
+.intro p {
+    font-size: 1.2rem;
+    color: #5a4a3b;
+    max-width: 600px;
+    margin: 10px auto 20px auto;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #8b6b4a;
+    color: #fbf8f3;
+    padding: 12px 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+.btn:hover {
+    background-color: #6b4c3a;
 }
 
 footer {
