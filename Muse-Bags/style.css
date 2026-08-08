@@ -118,6 +118,25 @@ nav ul li a:hover {
     background-color: #6b4c3a;
 }
 
+#overons {
+    padding: 60px 20px;
+    text-align: center;
+    background-color: #f0ece4;
+}
+
+#overons h2 {
+    font-size: 2rem;
+    color: #4a3a2b;
+    margin-bottom: 15px;
+}
+
+#overons p {
+    max-width: 700px;
+    margin: 0 auto;
+    color: #5a4a3b;
+    font-size: 1.1rem;
+}
+
 footer {
     background-color: #4a3a2b;
     color: #fbf8f3;
