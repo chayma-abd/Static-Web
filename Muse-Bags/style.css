@@ -244,3 +244,21 @@ footer {
     color: #8b6b4a;
     text-decoration: underline;
 }
+.cart-page {
+    max-width: 600px;
+    margin: 80px auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.cart-page h2 {
+    font-size: 2rem;
+    color: #4a3a2b;
+    margin-bottom: 20px;
+}
+
+.cart-page p {
+    font-size: 1.2rem;
+    color: #5a4a3b;
+    margin-bottom: 20px;
+}
