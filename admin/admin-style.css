@@ -80,3 +80,39 @@ input {
 .admin-header nav ul li a:hover {
     text-decoration: underline;
 }
+
+.admin-main {
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.admin-main h2 {
+    font-size: 2rem;
+    color: #4a3a2b;
+    margin-bottom: 20px;
+}
+
+.admin-search {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.admin-search input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    flex: 1;
+}
+
+.admin-search button {
+    padding: 10px 20px;
+    background-color: #8b6b4a;
+    color: #fbf8f3;
+    border: none;
+    cursor: pointer;
+}
+
+.admin-search button:hover {
+    background-color: #6b4c3a;
+}
