@@ -116,3 +116,50 @@ input {
 .admin-search button:hover {
     background-color: #6b4c3a;
 }
+
+.product-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+}
+
+.product-table th {
+    background-color: #8b6b4a;
+    color: #fbf8f3;
+    padding: 12px;
+    text-align: left;
+}
+
+.product-table td {
+    padding: 12px;
+    border-bottom: 1px solid #e0d6cc;
+}
+
+.product-table tr:hover {
+    background-color: #f5f0eb;
+}
+
+.btn-edit {
+    background-color: #8b6b4a;
+    color: #fbf8f3;
+    padding: 5px 12px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    margin-right: 5px;
+}
+
+.btn-edit:hover {
+    background-color: #6b4c3a;
+}
+
+.btn-delete {
+    background-color: #c0392b;
+    color: #fbf8f3;
+    padding: 5px 12px;
+    text-decoration: none;
+    font-size: 0.85rem;
+}
+
+.btn-delete:hover {
+    background-color: #a93226;
+}
